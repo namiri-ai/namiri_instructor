@@ -5,7 +5,7 @@
 ## 핵심 정보
 - **브랜드명**: AI강사 나미리
 - **주요 분야**: 생성형 AI 교육, 바이브 코딩(Vibe Coding), AI 업무자동화, AI 에이전트 커리큘럼 설계
-- **대표 웹사이트**: https://example.com/
+- **대표 웹사이트**: https://namiriinstructor.vercel.app/
 
 ## 주요 교육 서비스
 - **생성형 AI 업무자동화**: 기업 임직원의 반복 업무 프로세스를 AI로 시스템화.
