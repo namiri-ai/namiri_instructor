@@ -1,0 +1,6 @@
+{
+  "name": "AI강사 나미리",
+  "description": "생성형 AI 및 바이브 코딩 교육, AI 업무자동화 및 에이전트 시스템 설계를 전문으로 하는 AI강사 나미리 공식 웹사이트",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
